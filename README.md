@@ -1,5 +1,5 @@
 # Pip-Boy
 Your personal Pip-Boy for your PC.
 
-## Credit:
-* stix - [CodePen](https://codepen.io/stix/) (For CSS.)
+For credits to the contributers, downloads for; Android, iOS, etc and more information visit the official website.
+http://nightly.pw/pipboy/
