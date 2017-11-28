@@ -2,4 +2,4 @@
 Your personal Pip-Boy for your PC.
 
 ## Credit:
-* @stix [https://codepen.io/stix/](CodePen)
+* @stix - [CodePen](https://codepen.io/stix/) (For CSS.)
