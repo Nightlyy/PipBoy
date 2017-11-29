@@ -1,5 +1,6 @@
 html {
     height: 100%;
+	cursor:url(http://nightly.pw/pipboy/cursor.png), auto;
 }
 body {
     -ms-zoom: 0.50;
