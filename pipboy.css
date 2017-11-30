@@ -23,7 +23,7 @@ body{background:#111;font-family:'Droid Sans',sans-serif;font-size:7pt;color:#d8
 .top-button{width:55px;height:13px;background:#000;position:absolute;right:5px;top:3px;border-top-right-radius:20px;border-top-left-radius:20px;border-top:1px solid #444;transform:rotate(27deg)}
 .top-button:after{content:"";display:block;width:30px;height:7px;background:linear-gradient(to right, rgba(0,0,0,0.0),rgba(255,255,255,0.8));margin-left:13px;margin-top:-7px;border-radius:2px;border:1px solid #333;}
 
-.stat:before{content:"Stat";}.inv:before{content:"Inv";}.data:before{content:"Data";}.map:before{content:"Map";}.radio:before{content:"Radio"}.status:before{content:"&#8226; Diamond City Radio";}.special:before{content:"Special";}
+.stat:before{content:"Stat";}.inv:before{content:"Inv";}.data:before{content:"Data";}.map:before{content:"Map";}.radio:before{content:"Radio"}.status:before{content:"STATUS";}.special:before{content:"Special";}
 
 .screw1{width:14px;height:14px;position:absolute;top:50px;right:15px;background:#f4ebe4;border-radius:150px;box-shadow:0px 2px 5px #483a31;}
 .screw1:after{content:"";display:block;width:100%;height:3.9px;background:rgba(0,0,0,0.7);transform:rotate(40deg);margin-top:5px;}
