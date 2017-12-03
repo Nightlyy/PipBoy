@@ -8,3 +8,4 @@ http://nightly.pw/pipboy/
 |----------------------|------------------------------------------|
 | Windows, Linux, etc. | https://github.com/Nightlyy/PipBoy |
 | iOS | https://github.com/OliNightly/PipBoy-iOS |
+| Android | https://github.com/OliNightly/PipBoy-Android |
