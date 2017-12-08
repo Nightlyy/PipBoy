@@ -1,3 +1,7 @@
+a:-webkit-any-link{
+text-decoration:none !important;
+}
+
 html {
     height: 100%;
 	cursor:url(http://nightly.pw/pipboy/cursor.png), auto;
@@ -5,6 +9,11 @@ html {
 body {
     -ms-zoom: 0.50;
     background-image: linear-gradient(135deg, #C0CFE2, #365ebf);
+}
+
+.holder { display: table; 
+position: fixed;
+z-index: 1000;
 }
 
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans);
